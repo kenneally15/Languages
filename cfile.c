@@ -6,7 +6,7 @@
 
 
 int main(int argc, char** argv) {
-  printf("Hello World\n");
+  printf("Hello World! This is a C file\n");
   printf("Hello World again\n");
   printf("hello once more\n");
   printf("a fourth time\n");
