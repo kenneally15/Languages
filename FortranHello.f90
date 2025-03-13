@@ -1,5 +1,5 @@
 
-program hello
+program FortranHello
     print *, "Hello, World!"
-end program hello
+end program FortranHello
 
