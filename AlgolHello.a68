@@ -1,0 +1,4 @@
+
+BEGIN
+    print(("Hello, World! This is a ALGOL86 program", new line))
+END
