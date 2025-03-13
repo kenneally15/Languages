@@ -1,4 +1,4 @@
 
 BEGIN
-    print(("Hello, World!", new line))
+    print(("Hello, World! This is a ALGOL program", new line))
 END
